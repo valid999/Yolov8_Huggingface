@@ -1,0 +1,9 @@
+path: 'C:\Users\valid\Desktop\data'
+train: images\train
+val: images\val
+
+nc: 2
+
+names:
+  0: Hat
+  1: Jacket
