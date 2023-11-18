@@ -10,9 +10,15 @@ pinned: false
 license: cc
 ---
 
+---
+0 : Hat
+1 : Jacket
+---
+
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
-![Uploading labels_correlogram.jpg…]()
+![labels_correlogram](https://github.com/valid999/Yolov8_Huggingface/assets/95305177/2f0f7a98-f9c6-4606-800d-e5e67f491a9e)
+
 
 ![val_batch2_labels](https://github.com/valid999/Yolov8_Huggingface/assets/95305177/7881a246-fcfd-42e2-a8b2-b15a3ba0eb1a)
 
