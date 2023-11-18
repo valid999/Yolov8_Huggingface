@@ -12,7 +12,7 @@ license: cc
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
-![results](https://github.com/valid999/Yolov8_Huggingface/assets/95305177/55084be1-b86f-492c-90fe-5a9351311457)
+![Uploading labels_correlogram.jpg…]()
 
 ![val_batch2_labels](https://github.com/valid999/Yolov8_Huggingface/assets/95305177/7881a246-fcfd-42e2-a8b2-b15a3ba0eb1a)
 
